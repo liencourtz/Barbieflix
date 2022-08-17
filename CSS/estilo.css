@@ -44,5 +44,12 @@ h1, h4{
 #sobre{
     background-color: #fff;
     color: #e0218a;
+    text-align: justify;
+}
+
+#history{
     text-align: center;
+    border: 2px solid #e0218a;
+    color: #e0218a;
+    font-weight: bold;
 }
